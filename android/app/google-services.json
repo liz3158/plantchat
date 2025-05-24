@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264072799541",
+    "project_id": "plantchat-c6299",
+    "storage_bucket": "plantchat-c6299.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264072799541:android:0390426bd8ea3e5385d87c",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_5DcDbcd2JdKwGuuxmnROKllcsEZqzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264072799541:android:7d59a6a9cf44905085d87c",
+        "android_client_info": {
+          "package_name": "com.plant.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_5DcDbcd2JdKwGuuxmnROKllcsEZqzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
