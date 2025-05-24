@@ -1,7 +1,5 @@
 # 🌱 Plant Chat App 🌿
 
-![Plant Chat Banner](https://img.freepik.com/free-vector/flat-design-plant-illustration_23-2149270472.jpg?w=1380&t=st=1716530000~exp=1716530600~hmac=plantbanner)
-
 Welcome to **Plant Chat** — a beautiful, plant-themed real-time chat app built with Flutter and Firebase! 🌼
 
 ---
