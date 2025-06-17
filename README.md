@@ -10,7 +10,7 @@ Welcome to **Plant Chat** — a beautiful, plant-themed real-time chat app built
 - 🌿 **Plant-inspired UI** (light/dark mode)
 - 🌸 **Custom chat backgrounds**
 - 🌼 **Message reactions, replies, and editing**
-- 🌱 **Read receipts & typing indicators**
+- 🌱 **Read & typing indicators**
 - 🌳 **User profiles with status**
 - 🌺 **Group management (add/remove/rename)**
 - 🍃 **Lottie animations for empty states**
